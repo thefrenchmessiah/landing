@@ -22,7 +22,7 @@
   text-decoration: none;
 }
 
-footer a:link, a:visited {
+.footer a:link, .footer a:visited {
   text-decoration: none;
   color: rgb(235, 235, 235);
 }

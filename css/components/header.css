@@ -1,0 +1,16 @@
+.header {
+  /* position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  z-index: 100; */
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 0;
+  border: 1px solid black;
+}
+
+.header img {
+  width: 500px;
+}

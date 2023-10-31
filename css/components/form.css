@@ -1,0 +1,29 @@
+.form {
+  height: 400px;
+  margin-top: 30px;
+  color: black;
+  margin-bottom: 0;
+  padding: 20px;
+  text-align: center;
+  background-size: cover;
+}
+
+.form form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.form form label {
+  font-size: 24px;
+}
+
+.form form input {
+  padding: 5px 30px;
+  margin-bottom: 5px;
+}
+
+.form form #submit {
+  margin-top: 15px;
+}

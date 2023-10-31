@@ -1,0 +1,14 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container #WIP {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container #FTK {
+  padding-top: 20px;
+}
